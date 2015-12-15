@@ -1,0 +1,64 @@
+body{
+   background-image:url(http://cdn.mysitemyway.com/etc-mysitemyway/backgrounds/legacy-previews/backgrounds/starfield/starfield-002481-lime-green.jpg);
+   font-family:arial;
+    color:white;
+    font-size:20px;
+}
+#gamepics{
+    overflow:scroll;
+    height:300px;
+    width:800px;
+    width:70%;
+}
+img{
+    
+    height:250px;
+    width:150px;
+}
+#sales{
+}
+.sales{
+    overflow:scroll;
+    height:260px;
+    width:330px;
+    margin:20px;
+
+    
+}
+.portableGames{
+    overflow:scroll;
+    height:260px;
+    width:330px;   
+    margin:20px;
+}
+#nintendoDS{
+    height:200;
+    width:150;
+}
+
+#nav{
+    background-color:black;
+    width:67%;
+    color:white;
+    font-size:20px;
+    margin-bottom:20px;
+}
+
+
+#nav,a{
+    padding:18px;
+    color:white;
+}
+.link, li{
+    margin:10px;
+    
+}
+a{
+ transition:color .5s, color .5s;
+ transition:text-transform 1s, transform 1s;
+}
+a:hover{
+   text-transform:uppercase; 
+   color:aqua; 
+   transition:color 1s, color 1s;
+}
